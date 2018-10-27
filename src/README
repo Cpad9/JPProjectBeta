@@ -1,0 +1,17 @@
+Created by: Chris Padgett
+Date: 9/26/18
+Last updated 10/27/18
+
+This project creates a flexible structure that can be used in any production line.
+The program allows easy modification to handle a wide variety of products
+It creates interfaces to ensure all products have their required methods
+such as setProductionNumber, setName, getName, getManufactureDate,getSerialNumber.
+This program allows you to create a wide variety of products while still
+being able to easily access and control information about them.
+
+This template made in java is used to create and record all future production line items.
+This is a flexible structure that can be easily edited to allow use in other products
+besides the ones initially implemented.
+
+
+Steps 1-16 of JPProjectBeta
